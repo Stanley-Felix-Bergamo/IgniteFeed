@@ -1,0 +1,18 @@
+.header {
+  background: var(--gray-800);
+  display: flex;
+  justify-content: center;
+  padding: 1.25rem 0;
+}
+
+.header img {
+  height: 2rem;
+}
+.header h2 {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.titulo{
+  margin-left: 10px;
+}
